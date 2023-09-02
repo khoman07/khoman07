@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @khoman07
-- 👀 I’m interested in explorinng
-- 🌱 I’m currently learning at SSTC
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @khoman
+- 👀 I’m interested in exploring
+- 🌱 I’m learning at SSTC
+- 📫 reach me at skhoman@gmail.com
 
 <!---
 khoman07/khoman07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
